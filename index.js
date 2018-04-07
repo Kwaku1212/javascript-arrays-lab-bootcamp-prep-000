@@ -24,6 +24,6 @@ function appendKitten(name) {
 
 function prependKitten(name) {
   kittens.unshift(name)
-  var names = kittens
+  const names = kittens
   return names 
 }
