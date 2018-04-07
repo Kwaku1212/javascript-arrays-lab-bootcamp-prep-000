@@ -26,3 +26,9 @@ function prependKitten(name) {
   var newarray = [name, ...kittens]
   return (newarray)
 }
+
+function removeLastKitten() {
+  var last = [...items(0),...kittens(-2)]
+  return last
+}
+}
