@@ -29,5 +29,5 @@ function prependKitten(name) {
 
 function removeLastKitten() {
   var last = [...kittens(0),...kittens(-2)]
-  return las
+  return last
 }
