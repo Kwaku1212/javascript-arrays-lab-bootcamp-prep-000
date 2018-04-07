@@ -36,4 +36,3 @@ function removeFirstKitten() {
   var first = kittens.slice(1)
   return first
 }
-}
