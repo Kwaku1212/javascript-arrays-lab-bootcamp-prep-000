@@ -21,3 +21,7 @@ function appendKitten(name) {
   var neww = appendKitten(name)
   return neww
 }
+
+function prependKitten(name) {
+  
+})
