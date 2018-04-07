@@ -18,5 +18,5 @@ function destructivelyRemoveFirstKitten(name) {
 }
 
 function appendKitten(name) {
-  var new_array = appendKitten(name)
+  var new_array = appendname()
 }
