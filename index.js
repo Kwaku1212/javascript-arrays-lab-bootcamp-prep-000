@@ -25,4 +25,5 @@ function appendKitten(name) {
 function prependKitten(name) {
   var names = kittens.unshift(name)
   return names
+  console.log(names)
 }
